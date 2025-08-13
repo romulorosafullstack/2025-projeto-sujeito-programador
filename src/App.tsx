@@ -1,10 +1,7 @@
-function App() {
-
+export default function App() {
   return (
     <>
       Primeiro Projeto
     </>
   )
 }
-
-export default App
